@@ -2,6 +2,7 @@ package com.derrick;
 
 /**
  * Created by Derrick on 2018-08-17.
+ * ?????????????
  */
 public class ThreadSample {
     private static Object s = new Object();

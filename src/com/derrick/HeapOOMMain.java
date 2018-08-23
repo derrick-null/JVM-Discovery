@@ -2,7 +2,10 @@ package com.derrick;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Created by Derrick on 2018-04-26.
+ * ???????????
+ */
 public class HeapOOMMain {
 
     public static void main(String[] args) {
