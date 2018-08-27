@@ -2,7 +2,7 @@ package com.derrick;
 
 /**
  * Created by Derrick on 2018-04-26.
- * ??visualVM?????????
+ * visualVM查看线程状态
  */
 public class ThreadMain {
     public static void main(String[] args){

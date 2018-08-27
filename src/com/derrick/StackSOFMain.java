@@ -2,7 +2,7 @@ package com.derrick;
 
 /**
  * Created by Derrick on 2018-04-26.
- * stackOverFlowError??????????????????
+ * stackOverFlowError，递归调用引起栈溢出
  */
 public class StackSOFMain {
 
